@@ -3,7 +3,7 @@ Contributions, issues, and forks are welcome. Please note that any code/translat
 
 Since this project is small, we use a MAJOR.MINOR versioning system where the major version is bumped on breaking changes and the minor version is bumped on all other features and bug fixes.
 
-The [Random Text Generator for Outlook™](https://github.com/jerboa88/rtg-for-outlook) extension is used to generate screenshots that don't contain any private data.
+The [Random Text Generator for Outlook™](https://github.com/twocaretcat/rtg-for-outlook) extension is used to generate screenshots that don't contain any private data.
 
 ## Translations
 If you know another language and want to help out, please follow these steps:

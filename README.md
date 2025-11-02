@@ -6,7 +6,7 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Extension.svg" alt="Project category" title="Project category"/>
-    <img src="https://img.shields.io/github/languages/top/jerboa88/dark-mode-for-outlook.svg" alt="Language" title="Language"/>
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/dark-mode-for-outlook.svg" alt="Language" title="Language"/>
     <a href="https://chrome.google.com/webstore/detail/dark-mode-for-outlook/kjfbefcenipnnpbcbbklcidpjiamlcpl">
       <img src="https://img.shields.io/chrome-web-store/v/kjfbefcenipnnpbcbbklcidpjiamlcpl.svg" alt="View on the Chrome Web Store" title="View on the Chrome Web Store"/>
     </a>
@@ -17,25 +17,25 @@
       <img src="https://img.shields.io/badge/dynamic/json?label=edge%20add-on&prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fncmfoiokkfipenppipihehpoikhacpep" alt="View on the Edge Add-ons Page" title="View on the Edge Add-ons Page"/>
     </a>
     <a href="https://addons.opera.com/en/extensions/details/dark-mode-for-outlook/">
-      <img src="https://img.shields.io/badge/dynamic/json?label=opera%20add-on&color=blue&query=%24.tag_name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjerboa88%2Fdark-mode-for-outlook%2Freleases%2Flatest" alt="View on the Opera Add-ons Page" title="View on the Opera Add-ons Page"/>
+      <img src="https://img.shields.io/badge/dynamic/json?label=opera%20add-on&color=blue&query=%24.tag_name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftwocaretcat%2Fdark-mode-for-outlook%2Freleases%2Flatest" alt="View on the Opera Add-ons Page" title="View on the Opera Add-ons Page"/>
     </a>
-    <img src="https://img.shields.io/github/repo-size/jerboa88/dark-mode-for-outlook.svg" alt="Repository size" title="Repository size"/>
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/dark-mode-for-outlook.svg" alt="Repository size" title="Repository size"/>
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/dark-mode-for-outlook.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/dark-mode-for-outlook.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
-  
+
   <p class="projectDesc">
     A browser extension/add-on that applies a better dark theme to Microsoft Outlook and removes ads. Available for Chrome, Firefox, Edge, and Opera, with partial support for Firefox mobile!
   </p>
-  
+
   <br/>
 </div>
 
 
 > [!IMPORTANT]
 > Google is removing support for Manifest v2 extensions [under the guise of improving security/privacy/performance](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) for users of their browser. Ironically, this will affect your ability to use extensions like ad-blockers and tracker blockers that enhance your experience and keep you safe online.
-> 
+>
 > This extension should not be affected, and I will add Manifest v3 support to it at some point.
 >
 > That being said, if you are currently using Google Chrome, I **strongly** recommend switching to another browser that respects your privacy and is not run by the world's largest advertising company. I would recommend:
@@ -128,7 +128,7 @@ Outlook is a trademark of Microsoft and this project is not affiliated with or e
 
 
 ## 🖇️ Related
-- **[Random Text Generator for Outlook](https://github.com/jerboa88/rtg-for-outlook)**: A browser extension that temporarily replaces private email content with random text for development purposes. This is used to generate screenshots for Dark Mode for Outlook.
+- **[Random Text Generator for Outlook](https://github.com/twocaretcat/rtg-for-outlook)**: A browser extension that temporarily replaces private email content with random text for development purposes. This is used to generate screenshots for Dark Mode for Outlook.
 
 
 ## 💕 Funding

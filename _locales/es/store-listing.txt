@@ -28,7 +28,7 @@ Estos permisos se solicitan solo cuando son necesarios:
 
 🔶 Reportar Problemas 🔶
 
-¡Se necesitan traducciones! Si conoce otro idioma y desea ayudar, cree un problema con detalles aquí: https://github.com/jerboa88/dark-mode-for-outlook/issues.
+¡Se necesitan traducciones! Si conoce otro idioma y desea ayudar, cree un problema con detalles aquí: https://github.com/twocaretcat/dark-mode-for-outlook/issues.
 
 Si encuentra algún problema al usar la extensión, cree un problema o cree una solicitud de extracción usted mismo para solucionar el problema.
 
